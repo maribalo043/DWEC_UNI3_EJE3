@@ -7,6 +7,6 @@ function alternarVisibilidad() {
         enlace.textContent = 'Ocultar';
     } else {
         parrafo.style.display = 'none';
-        enlace.textContent = 'Mostrar';
+        enlace.textContent = 'Mostrar'; 
     }
 }
